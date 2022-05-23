@@ -20,10 +20,10 @@ maven {
 		name = "ProfMobius"
 	url = "http://mobiusstrip.eu/maven"
 	}
-	maven {
-		name = "tehnut"
-		url = "https://maven.tehnut.info/maven"
-	}
+//	maven {
+//		name = "tehnut"
+//		url = "https://maven.tehnut.info/maven"
+//	}
 	maven {
 		name = "ChickenBones"
 		url = "http://chickenbones.net/maven"
