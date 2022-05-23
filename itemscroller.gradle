@@ -1,4 +1,5 @@
 dependencies {
-	deobfCompile "item-scroller:itemscroller:1.12.2:0.12.0"
+	// deobfCompile "item-scroller:itemscroller:1.12.2:0.12.0"
 	//deobfCompile curse.resolve("item-scroller", "2581199")
+	deobfCompile "curse.maven:item-scroller-242064:2581199"
 }
