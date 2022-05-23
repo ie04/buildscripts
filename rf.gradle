@@ -1,3 +1,4 @@
 dependencies {
-	deobfCompile "cofh:RedstoneFlux:1.12-2.1.0.6:universal"
+	//deobfCompile "cofh:RedstoneFlux:1.12-2.1.0.6:universal"
+	deobfCompile "curse.maven:RedstoneFlux-270789:2623090"
 }
