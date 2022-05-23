@@ -1,5 +1,5 @@
 repositories {
-	mavencentral()
+	jcenter()
 	maven {
 		name = "covers Maven"
 		url = "http://maven.covers1624.net"
