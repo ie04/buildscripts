@@ -16,14 +16,14 @@ repositories {
 		name = "progwml6"
 		url = "https://dvs1.progwml6.com/files/maven"
 	}
-	maven {
-		name = "tterrag"
-		url = "https://maven.tterrag.com"
-	}
-	maven {
-		name = "tterrag2"
-		url = "https://maven2.tterrag.com"
-	}
+	//maven {
+	//	name = "tterrag"
+	//	url = "https://maven.tterrag.com"
+	//}
+	//maven {
+	//	name = "tterrag2"
+	//	url = "https://maven2.tterrag.com"
+	//}
 	maven {
 		name = "ProfMobius"
 		url = "http://mobiusstrip.eu/maven"
