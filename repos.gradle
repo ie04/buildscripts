@@ -4,6 +4,9 @@ repositories {
 		name = "covers Maven"
 		url = "http://maven.covers1624.net"
 	}
+	 maven {
+        url "https://cursemaven.com"
+    }
 	maven {
 		name = "CurseForge Maven"
 		url = "https://minecraft.curseforge.com/api/maven/"
