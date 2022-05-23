@@ -1,4 +1,5 @@
 dependencies {
-	deobfCompile "baubles:Baubles:1.12:1.5.2"
+	//deobfCompile "baubles:Baubles:1.12:1.5.2"
 	//deobfCompile curse.resolve("baubles", "2518667")
+	deobfCompile "curse.maven:Baubles-227083:2518667"
 }
