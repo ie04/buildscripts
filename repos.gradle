@@ -30,7 +30,7 @@ repositories {
 	}
 	maven {
 		name = "tehnut"
-		url = "https://tehnut.info/maven"
+		url = "https://maven.tehnut.info/maven"
 	}
 	maven {
 		name = "ChickenBones"
